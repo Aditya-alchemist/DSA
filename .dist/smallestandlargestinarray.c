@@ -28,7 +28,7 @@ for(i=1;i<n;i++){
 }
 
 printf("largest number in array is %d\n",largest);
-printf("largest number in array is %d\n",smallest);
+printf("smallest number in array is %d\n",smallest);
 
 return 0;
 
