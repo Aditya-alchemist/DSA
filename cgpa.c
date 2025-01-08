@@ -3,7 +3,7 @@
 struct studentsem1 {
     int maths;
     int physics;
-    int elective1;
+    int elective1; 
     int elective2;
     int bio;
     int evs;
